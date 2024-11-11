@@ -1,7 +1,7 @@
 |   | 10 |  10^2 | 10^3 | 10^4|10^5|
 | ------------- | ------------- |-|-|-|-|
-| The first alg  |  -|-|-|-|-|
-| The second alg  | - |-|-|-|-|
-| The third alg  | -|-|-|-|-|
-| The fourth alg  |  -|-|-|-|-|
-| The fith alg  |  -|-|-|-|-|
+| The first alg  |  0,0|1.00017|94.9|-|-|
+| The second alg  | 0,0 |0|27.9|-|-|
+| The third alg  | 0,0|0.96822|28.9|-|-|
+| The fourth alg  |  0,0|0|3.04|-|-|
+
