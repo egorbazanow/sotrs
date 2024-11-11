@@ -1,3 +1,4 @@
-| |10|10^2|10^3|10^4|10^5|
-|-|-|-|
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
